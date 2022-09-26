@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit R P
 - 👀 I’m interested in Web Development, Machine Learning, Data Structures.
-- 🌱 I’m currently  ...Undergraduate at RV College of Engineering
+- 🌱 I’m currently  ...Computer Science and Engineering Undergraduate at RV College of Engineering
 - 💞️ I’m looking to work for companies and gain real-world experience...
 - 📫 How to reach me ...rprbagepalli@gmail.com
 
